@@ -1,0 +1,29 @@
+D:\Repository\C#_Practice Problems\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.exe
+D:\Repository\C#_Practice Problems\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.deps.json
+D:\Repository\C#_Practice Problems\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.runtimeconfig.json
+D:\Repository\C#_Practice Problems\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.dll
+D:\Repository\C#_Practice Problems\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.pdb
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.AssemblyInfoInputs.cache
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.AssemblyInfo.cs
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.csproj.CoreCompileInputs.cache
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.dll
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\refint\C#_Practice Problems.dll
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.pdb
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.genruntimeconfig.cache
+D:\Repository\C#_Practice Problems\C#_Practice Problems\obj\Debug\net8.0\ref\C#_Practice Problems.dll
+D:\Repository\PP\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.exe
+D:\Repository\PP\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.deps.json
+D:\Repository\PP\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.runtimeconfig.json
+D:\Repository\PP\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.dll
+D:\Repository\PP\C#_Practice Problems\bin\Debug\net8.0\C#_Practice Problems.pdb
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.AssemblyInfoInputs.cache
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.AssemblyInfo.cs
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.csproj.CoreCompileInputs.cache
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.sourcelink.json
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.dll
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\refint\C#_Practice Problems.dll
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.pdb
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\C#_Practice Problems.genruntimeconfig.cache
+D:\Repository\PP\C#_Practice Problems\obj\Debug\net8.0\ref\C#_Practice Problems.dll
